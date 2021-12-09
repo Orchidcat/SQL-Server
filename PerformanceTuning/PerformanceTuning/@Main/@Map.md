@@ -5,9 +5,11 @@ kanban-plugin: basic
 ---
 
 ## What Happened
-
-- [ ] 📄 **TSQL诊断** #诊断
-- [ ] 🚀 TempDB
+- [ ] TempDB
+- [ ] CPU
+- [ ] IO
+- [ ] Memory
+- [ ] Files
 
 
 ## PowerShell

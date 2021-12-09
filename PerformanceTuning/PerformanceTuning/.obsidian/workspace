@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,12 +88,12 @@
   "active": "89d310943e94a6dd",
   "lastOpenFiles": [
     "@Main/@Map.md",
+    "What Happened/SQL Server 2008 R2 诊断.md",
     "基线抓取/未命名看板.md",
     "Follow.md",
     "What Happened/SQL Server 2019 诊断.md",
     "配置操作/常规性能配置.md",
     "What Happened/SQL Server 2016 SP2 诊断.md",
-    "What Happened/SQL Server 2008 R2 诊断.md",
     "未命名 1.md",
     "@.md"
   ]
