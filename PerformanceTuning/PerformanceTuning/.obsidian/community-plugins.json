@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-outliner",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-emoji-toolbar",
+  "url-into-selection"
 ]
