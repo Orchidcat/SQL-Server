@@ -1,0 +1,26 @@
+{
+  "recentFiles": [
+    {
+      "basename": "第一步",
+      "path": "@Main/第一步.md"
+    },
+    {
+      "basename": "常规性能配置",
+      "path": "配置操作/常规性能配置.md"
+    },
+    {
+      "basename": "@Map",
+      "path": "@Main/@Map.md"
+    },
+    {
+      "basename": "DBCC",
+      "path": "DBCC.md"
+    },
+    {
+      "basename": "TF",
+      "path": "TF.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
