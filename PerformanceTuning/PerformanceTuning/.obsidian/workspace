@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Follow.md",
+            "file": "@Main/@Map.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follow.md",
+                "file": "@Main/@Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "89d310943e94a6dd",
   "lastOpenFiles": [
-    "Follow.md",
     "@Main/@Map.md",
+    "Follow.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
     "基线抓取/未命名看板.md",
     "What Happened/SQL Server 2019 诊断.md",

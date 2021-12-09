@@ -15,7 +15,7 @@ kanban-plugin: basic
 ## TF
 ## PowerShell
 ## Follow
-- [ ] 
+- [ ] [Glenn's SQL Server Performance](https://glennsqlperformance.com/glenns-blog/)
 
 
 
