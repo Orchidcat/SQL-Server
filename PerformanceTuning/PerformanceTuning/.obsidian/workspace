@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@Main/第一步.md",
+            "file": "TempDB.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CPU",
+                "query": "tag:#TempDB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Main/第一步.md",
+                "file": "TempDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Main/第一步.md"
+                "file": "TempDB.md"
               }
             }
           },
@@ -123,15 +123,15 @@
   },
   "active": "993811aa40645ece",
   "lastOpenFiles": [
-    "@Main/第一步.md",
+    "TempDB.md",
     "@Main/@Map.md",
+    "@Main/第一步.md",
+    "配置操作/常规性能配置.md",
     "What Happened/硬件.md",
     "What Happened/高可用.md",
     "DBCC.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
-    "配置操作/常规性能配置.md",
     "What Happened/SQL Server 2019 诊断.md",
-    "TF.md",
-    "Follow.md"
+    "TF.md"
   ]
 }
