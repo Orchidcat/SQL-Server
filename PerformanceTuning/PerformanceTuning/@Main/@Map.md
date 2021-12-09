@@ -14,7 +14,9 @@ kanban-plugin: basic
 
 ## Follow
 
-1. [[第一步]]获取基本信息
+- [ ] [[第一步]]获取基本信息
+	- [ ] #Disk #Lock #Config 
+
 
 
 
