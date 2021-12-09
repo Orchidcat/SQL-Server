@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "常规性能配置.md",
+            "file": "配置操作/常规性能配置.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常规性能配置.md",
+                "file": "配置操作/常规性能配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "ac443cd3cfb6da57",
   "lastOpenFiles": [
-    "常规性能配置.md",
+    "配置操作/常规性能配置.md",
     "未命名 1.md",
     "@.md"
   ]
