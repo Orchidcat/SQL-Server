@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What Happened/硬件信息.md",
-            "mode": "source"
+            "file": "@Main/第一步.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What Happened/硬件信息.md",
+                "file": "@Main/第一步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What Happened/硬件信息.md"
+                "file": "@Main/第一步.md"
               }
             }
           }
@@ -114,8 +114,8 @@
   },
   "active": "993811aa40645ece",
   "lastOpenFiles": [
-    "What Happened/硬件信息.md",
     "@Main/第一步.md",
+    "What Happened/硬件信息.md",
     "@Main/@Map.md",
     "配置操作/常规性能配置.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
