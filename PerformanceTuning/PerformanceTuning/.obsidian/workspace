@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fba70e2fe6f166b8",
+        "id": "89d310943e94a6dd",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "基线抓取/未命名看板.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基线抓取/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fba70e2fe6f166b8",
+  "active": "89d310943e94a6dd",
   "lastOpenFiles": [
     "基线抓取/未命名看板.md",
     "Follow.md",
