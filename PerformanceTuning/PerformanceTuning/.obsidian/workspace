@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@Main/@Map.md",
+            "file": "Follow.md",
             "mode": "source"
           }
         }
@@ -48,12 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225
   },
   "right": {
     "id": "086b97015a9ff381",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Main/@Map.md",
+                "file": "Follow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +88,10 @@
   },
   "active": "89d310943e94a6dd",
   "lastOpenFiles": [
+    "Follow.md",
     "@Main/@Map.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
     "基线抓取/未命名看板.md",
-    "Follow.md",
     "What Happened/SQL Server 2019 诊断.md",
     "配置操作/常规性能配置.md",
     "What Happened/SQL Server 2016 SP2 诊断.md",

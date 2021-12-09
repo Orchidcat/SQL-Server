@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## What Happened
+## 🛵 On The Road
 
 - [ ] #TempDB
 - [ ] #CPU #IO #Memory
@@ -13,6 +13,9 @@ kanban-plugin: basic
 
 
 ## TF
+## PowerShell
+## Follow
+- [ ] 
 
 
 
