@@ -5,8 +5,9 @@ kanban-plugin: basic
 ---
 
 ## What Happened
+
 - [ ] TempDB
-- [ ] CPU
+- [ ] #CPU
 - [ ] IO
 - [ ] Memory
 - [ ] Files
