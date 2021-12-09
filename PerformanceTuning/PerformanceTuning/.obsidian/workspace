@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "配置操作/常规性能配置.md",
+            "file": "SQL Server 2008 R2 诊断.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置操作/常规性能配置.md",
+                "file": "SQL Server 2008 R2 诊断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "ac443cd3cfb6da57",
   "lastOpenFiles": [
+    "SQL Server 2008 R2 诊断.md",
     "配置操作/常规性能配置.md",
     "未命名 1.md",
     "@.md"
