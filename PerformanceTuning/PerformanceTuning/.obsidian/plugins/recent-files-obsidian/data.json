@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "硬件",
+      "path": "What Happened/硬件.md"
+    },
+    {
+      "basename": "高可用",
+      "path": "What Happened/高可用.md"
+    },
+    {
       "basename": "第一步",
       "path": "@Main/第一步.md"
     },
     {
-      "basename": "硬件信息",
-      "path": "What Happened/硬件信息.md"
+      "basename": "@Map",
+      "path": "@Main/@Map.md"
     },
     {
       "basename": "SQL Server 2008 R2 诊断",
@@ -19,10 +27,6 @@
     {
       "basename": "SQL Server 2019 诊断",
       "path": "What Happened/SQL Server 2019 诊断.md"
-    },
-    {
-      "basename": "@Map",
-      "path": "@Main/@Map.md"
     },
     {
       "basename": "DBCC",

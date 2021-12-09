@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@Main/第一步.md",
+            "file": "What Happened/硬件.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Main/第一步.md",
+                "file": "What Happened/硬件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Main/第一步.md"
+                "file": "What Happened/硬件.md"
               }
             }
           }
@@ -114,15 +114,15 @@
   },
   "active": "993811aa40645ece",
   "lastOpenFiles": [
+    "What Happened/硬件.md",
+    "What Happened/高可用.md",
     "@Main/第一步.md",
-    "What Happened/硬件信息.md",
+    "@Main/@Map.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
     "配置操作/常规性能配置.md",
     "What Happened/SQL Server 2019 诊断.md",
-    "@Main/@Map.md",
     "DBCC.md",
     "TF.md",
-    "Follow.md",
-    "基线抓取/未命名看板.md"
+    "Follow.md"
   ]
 }
