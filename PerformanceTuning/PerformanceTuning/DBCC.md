@@ -1,0 +1,1 @@
+ DBCC SQLPERF(LOGSPACE)  - 读取日志信息
