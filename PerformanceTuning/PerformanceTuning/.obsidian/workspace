@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,10 +115,10 @@
   "active": "993811aa40645ece",
   "lastOpenFiles": [
     "What Happened/硬件信息.md",
-    "配置操作/常规性能配置.md",
     "@Main/第一步.md",
-    "What Happened/SQL Server 2008 R2 诊断.md",
     "@Main/@Map.md",
+    "配置操作/常规性能配置.md",
+    "What Happened/SQL Server 2008 R2 诊断.md",
     "DBCC.md",
     "TF.md",
     "Follow.md",

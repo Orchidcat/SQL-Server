@@ -5,20 +5,20 @@
       "path": "What Happened/硬件信息.md"
     },
     {
-      "basename": "常规性能配置",
-      "path": "配置操作/常规性能配置.md"
-    },
-    {
       "basename": "第一步",
       "path": "@Main/第一步.md"
     },
     {
-      "basename": "SQL Server 2008 R2 诊断",
-      "path": "What Happened/SQL Server 2008 R2 诊断.md"
-    },
-    {
       "basename": "@Map",
       "path": "@Main/@Map.md"
+    },
+    {
+      "basename": "常规性能配置",
+      "path": "配置操作/常规性能配置.md"
+    },
+    {
+      "basename": "SQL Server 2008 R2 诊断",
+      "path": "What Happened/SQL Server 2008 R2 诊断.md"
     },
     {
       "basename": "DBCC",
