@@ -6,11 +6,13 @@ kanban-plugin: basic
 
 ## What Happened
 
-- [ ] TempDB
+- [ ] #TempDB
 - [ ] #CPU
-- [ ] IO
-- [ ] Memory
-- [ ] Files
+- [ ] #IO
+- [ ] #Memory
+- [ ] #Files
+- [ ] #Lock
+- [ ] #Security
 
 
 ## PowerShell
