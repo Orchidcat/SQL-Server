@@ -6,7 +6,17 @@ kanban-plugin: basic
 
 ## What Happened
 
-- 📄 **TSQL诊断** #诊断 
+- [ ] 📄 **TSQL[诊断](#诊断)** 
 
 
 ## Trace Flag
+
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%
