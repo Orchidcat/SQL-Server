@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "89d310943e94a6dd",
+        "id": "993811aa40645ece",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TempDB",
+                "query": "tag:#CPU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "89d310943e94a6dd",
+  "active": "993811aa40645ece",
   "lastOpenFiles": [
     "What Happened/硬件信息.md",
+    "配置操作/常规性能配置.md",
     "@Main/第一步.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
-    "配置操作/常规性能配置.md",
     "@Main/@Map.md",
     "DBCC.md",
     "TF.md",
