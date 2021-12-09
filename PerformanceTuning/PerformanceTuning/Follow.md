@@ -1,0 +1,1 @@
+[Glenn's SQL Server Performance](https://glennsqlperformance.com/glenns-blog/)

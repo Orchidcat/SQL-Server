@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Server 2019 诊断.md",
-            "mode": "source"
+            "file": "Follow.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Server 2019 诊断.md",
+                "file": "Follow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "fba70e2fe6f166b8",
   "lastOpenFiles": [
-    "SQL Server 2019 诊断.md",
+    "Follow.md",
+    "基线抓取/SQL Server 2019 诊断.md",
     "配置操作/常规性能配置.md",
     "基线抓取/SQL Server 2016 SP2 诊断.md",
     "基线抓取/SQL Server 2008 R2 诊断.md",
