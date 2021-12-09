@@ -1,4 +1,5 @@
-#诊断 #2008R2 #T
+#诊断 #2008R2 #TSQL
+
 
 -- SQL Server 2008 R2 Diagnostic Information Queries
 -- Glenn Berry 
