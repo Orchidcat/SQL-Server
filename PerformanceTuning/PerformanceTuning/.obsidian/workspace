@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "@Main/Map.md"
+            "file": "@Main/@Map.md"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Main/Map.md",
+                "file": "@Main/@Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "89d310943e94a6dd",
   "lastOpenFiles": [
-    "@Main/Map.md",
+    "@Main/@Map.md",
     "基线抓取/未命名看板.md",
     "Follow.md",
     "What Happened/SQL Server 2019 诊断.md",
