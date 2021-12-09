@@ -7,10 +7,7 @@ kanban-plugin: basic
 ## What Happened
 
 - [ ] #TempDB
-- [ ] #CPU
-- [ ] #IO
-- [ ] #Memory
-- [ ] #Files
+- [ ] #CPU #IO #Memory
 - [ ] #Lock
 - [ ] #Security
 
