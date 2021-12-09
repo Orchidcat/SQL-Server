@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "@Main/第一步.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -116,13 +116,13 @@
   "lastOpenFiles": [
     "@Main/第一步.md",
     "What Happened/硬件信息.md",
-    "@Main/@Map.md",
-    "配置操作/常规性能配置.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
+    "配置操作/常规性能配置.md",
+    "What Happened/SQL Server 2019 诊断.md",
+    "@Main/@Map.md",
     "DBCC.md",
     "TF.md",
     "Follow.md",
-    "基线抓取/未命名看板.md",
-    "What Happened/SQL Server 2019 诊断.md"
+    "基线抓取/未命名看板.md"
   ]
 }
