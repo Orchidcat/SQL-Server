@@ -7,10 +7,9 @@
         "id": "993811aa40645ece",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "TempDB.md",
-            "mode": "source"
+            "file": "@Main/@Map.md"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TempDB.md",
+                "file": "@Main/@Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TempDB.md"
+                "file": "@Main/@Map.md"
               }
             }
           },
@@ -118,16 +117,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "993811aa40645ece",
   "lastOpenFiles": [
-    "TempDB.md",
     "@Main/@Map.md",
     "@Main/第一步.md",
-    "配置操作/常规性能配置.md",
     "What Happened/硬件.md",
+    "TempDB.md",
+    "配置操作/常规性能配置.md",
     "What Happened/高可用.md",
     "DBCC.md",
     "What Happened/SQL Server 2008 R2 诊断.md",

@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "TempDB",
-      "path": "TempDB.md"
-    },
-    {
       "basename": "@Map",
       "path": "@Main/@Map.md"
     },
@@ -13,12 +9,16 @@
       "path": "@Main/第一步.md"
     },
     {
-      "basename": "常规性能配置",
-      "path": "配置操作/常规性能配置.md"
-    },
-    {
       "basename": "硬件",
       "path": "What Happened/硬件.md"
+    },
+    {
+      "basename": "TempDB",
+      "path": "TempDB.md"
+    },
+    {
+      "basename": "常规性能配置",
+      "path": "配置操作/常规性能配置.md"
     },
     {
       "basename": "高可用",

@@ -9,14 +9,12 @@ kanban-plugin: basic
 - [ ] 🖥️ #CPU #IO #Memory #Volumns
 - [ ] 🔒 #Latch  #Lock
 - [ ] 😱 #Security
-- [ ] 🐈 #Config #TempDB 
+- [ ] 🐈 #Config
 
 
 ## Follow
 
 - [ ] [[第一步]]获取基本信息
-	- [ ] #Disk #Lock #Config 
-
 
 
 
