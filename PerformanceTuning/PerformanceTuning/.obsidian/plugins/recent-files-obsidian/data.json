@@ -5,16 +5,16 @@
       "path": "@Main/第一步.md"
     },
     {
+      "basename": "@Map",
+      "path": "@Main/@Map.md"
+    },
+    {
       "basename": "硬件",
       "path": "What Happened/硬件.md"
     },
     {
       "basename": "高可用",
       "path": "What Happened/高可用.md"
-    },
-    {
-      "basename": "@Map",
-      "path": "@Main/@Map.md"
     },
     {
       "basename": "DBCC",
