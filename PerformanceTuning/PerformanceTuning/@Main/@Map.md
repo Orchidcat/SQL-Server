@@ -6,17 +6,15 @@ kanban-plugin: basic
 
 ## 🛵 On The Road
 
-- [ ] #TempDB
-- [ ] #CPU #IO #Memory
-- [ ] #Lock
-- [ ] #Security
+- [ ] 🖥️ #CPU #IO #Memory #Disk
+- [ ] 🔒 #Latch  #Lock
+- [ ] 😱 #Security
+- [ ] 🐈 #Config #TempDB 
 
 
-## TF
-## PowerShell
 ## Follow
-- [ ] [Glenn](https://glennsqlperformance.com/glenns-blog/)
 
+1. [[第一步]]获取基本信息
 
 
 

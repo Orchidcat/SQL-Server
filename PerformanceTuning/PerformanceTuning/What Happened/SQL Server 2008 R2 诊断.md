@@ -247,7 +247,7 @@ WHERE node_state_desc <> N'ONLINE DAC' OPTION (RECOMPILE);
  
  
 -- Hardware information from SQL Server 2008 R2  (Query 10) (Hardware Info)
--- (Cannot distinguish between HT and multi-core)
+-- (Cannot distinguish between HT and multi-core) #CPU 
 SELECT cpu_count AS [Logical CPU Count], hyperthread_ratio AS [Hyperthread Ratio],
 cpu_count/hyperthread_ratio AS [Physical CPU Count], 
 physical_memory_in_bytes/1048576 AS [Physical Memory (MB)], 
