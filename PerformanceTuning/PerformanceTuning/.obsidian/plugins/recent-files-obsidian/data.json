@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "硬件",
-      "path": "硬件/硬件.md"
-    },
-    {
       "basename": "第一步",
       "path": "@Main/第一步.md"
     },
     {
       "basename": "@Map",
       "path": "@Main/@Map.md"
+    },
+    {
+      "basename": "硬件",
+      "path": "硬件/硬件.md"
     },
     {
       "basename": "TempDB",

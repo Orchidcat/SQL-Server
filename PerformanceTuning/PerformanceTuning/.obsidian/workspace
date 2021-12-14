@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "硬件/硬件.md",
+            "file": "@Main/第一步.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/硬件.md",
+                "file": "@Main/第一步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/硬件.md"
+                "file": "@Main/第一步.md"
               }
             }
           },
@@ -123,9 +123,9 @@
   },
   "active": "993811aa40645ece",
   "lastOpenFiles": [
-    "硬件/硬件.md",
     "@Main/第一步.md",
     "@Main/@Map.md",
+    "硬件/硬件.md",
     "TempDB.md",
     "配置操作/常规性能配置.md",
     "What Happened/高可用.md",
