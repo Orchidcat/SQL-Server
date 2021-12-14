@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "硬件/硬件.md",
-            "mode": "source"
+            "file": "Top DBA DMVs.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/硬件.md",
+                "file": "Top DBA DMVs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/硬件.md"
+                "file": "Top DBA DMVs.md"
               }
             }
           },
@@ -123,6 +123,7 @@
   },
   "active": "993811aa40645ece",
   "lastOpenFiles": [
+    "Top DBA DMVs.md",
     "硬件/硬件.md",
     "@Main/第一步.md",
     "@Main/@Map.md",
@@ -131,7 +132,6 @@
     "What Happened/高可用.md",
     "DBCC.md",
     "What Happened/SQL Server 2008 R2 诊断.md",
-    "What Happened/SQL Server 2019 诊断.md",
-    "TF.md"
+    "What Happened/SQL Server 2019 诊断.md"
   ]
 }
