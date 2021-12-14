@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server 2008 R2 诊断",
+      "path": "What Happened/SQL Server 2008 R2 诊断.md"
+    },
+    {
+      "basename": "第一步",
+      "path": "@Main/第一步.md"
+    },
+    {
       "basename": "Top DBA DMVs",
       "path": "Top DBA DMVs.md"
     },
     {
       "basename": "硬件",
       "path": "硬件/硬件.md"
-    },
-    {
-      "basename": "第一步",
-      "path": "@Main/第一步.md"
     },
     {
       "basename": "@Map",
@@ -31,10 +35,6 @@
     {
       "basename": "DBCC",
       "path": "DBCC.md"
-    },
-    {
-      "basename": "SQL Server 2008 R2 诊断",
-      "path": "What Happened/SQL Server 2008 R2 诊断.md"
     },
     {
       "basename": "SQL Server 2019 诊断",
