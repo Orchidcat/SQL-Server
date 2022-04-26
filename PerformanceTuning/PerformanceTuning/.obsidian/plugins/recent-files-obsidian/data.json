@@ -5,20 +5,28 @@
       "path": "配置操作/常规性能配置.md"
     },
     {
-      "basename": "000写作模板",
-      "path": "templates/000写作模板.md"
+      "basename": "SQL Server 2016 SP2 诊断",
+      "path": "What Happened/SQL Server 2016 SP2 诊断.md"
     },
     {
-      "basename": "未命名",
-      "path": "硬件/未命名.md"
+      "basename": "SQL Server 2008 R2 诊断",
+      "path": "What Happened/SQL Server 2008 R2 诊断.md"
+    },
+    {
+      "basename": "高可用",
+      "path": "What Happened/高可用.md"
     },
     {
       "basename": "硬件",
       "path": "硬件/硬件.md"
     },
     {
-      "basename": "高可用",
-      "path": "What Happened/高可用.md"
+      "basename": "未命名",
+      "path": "硬件/未命名.md"
+    },
+    {
+      "basename": "000写作模板",
+      "path": "templates/000写作模板.md"
     },
     {
       "basename": "未命名",
@@ -35,10 +43,6 @@
     {
       "basename": "@Map",
       "path": "@Main/@Map.md"
-    },
-    {
-      "basename": "SQL Server 2008 R2 诊断",
-      "path": "What Happened/SQL Server 2008 R2 诊断.md"
     },
     {
       "basename": "第一步",
