@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@Map",
+      "path": "@Main/@Map.md"
+    },
+    {
       "basename": "SQL Server 2008 R2 诊断",
       "path": "What Happened/SQL Server 2008 R2 诊断.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "硬件",
       "path": "硬件/硬件.md"
-    },
-    {
-      "basename": "@Map",
-      "path": "@Main/@Map.md"
     },
     {
       "basename": "TempDB",
