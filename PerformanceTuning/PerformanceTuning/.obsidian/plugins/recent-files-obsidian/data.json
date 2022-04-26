@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "常规性能配置",
+      "path": "配置操作/常规性能配置.md"
+    },
+    {
       "basename": "000写作模板",
       "path": "templates/000写作模板.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "硬件",
       "path": "硬件/硬件.md"
-    },
-    {
-      "basename": "常规性能配置",
-      "path": "配置操作/常规性能配置.md"
     },
     {
       "basename": "高可用",

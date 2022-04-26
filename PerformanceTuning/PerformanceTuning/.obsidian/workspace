@@ -7,8 +7,12 @@
         "id": "24265b455b4c2ea0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "配置操作/常规性能配置.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "配置操作/常规性能配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "配置操作/常规性能配置.md"
+              }
             }
           },
           {
@@ -120,14 +127,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "24265b455b4c2ea0",
   "lastOpenFiles": [
+    "配置操作/常规性能配置.md",
     "templates/000写作模板.md",
     "硬件/未命名.md",
     "硬件/硬件.md",
-    "配置操作/常规性能配置.md",
     "配置操作/mind.md",
     "What Happened/高可用.md",
     "未命名.md",
