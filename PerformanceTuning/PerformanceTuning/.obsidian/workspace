@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca8a06802e387009",
+        "id": "24265b455b4c2ea0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "硬件/硬件.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/硬件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "硬件/硬件.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ca8a06802e387009",
+  "active": "24265b455b4c2ea0",
   "lastOpenFiles": [
+    "templates/000写作模板.md",
+    "硬件/未命名.md",
     "硬件/硬件.md",
     "配置操作/常规性能配置.md",
     "配置操作/mind.md",
     "What Happened/高可用.md",
     "未命名.md",
     "templates/未命名.md",
-    "templates/000写作模板.md",
     "templates/001日记模板.md",
-    "@Main/@Map.md",
-    "What Happened/SQL Server 2008 R2 诊断.md"
+    "@Main/@Map.md"
   ]
 }
